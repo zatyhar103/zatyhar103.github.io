@@ -1,18 +1,21 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: SQL, SQLPathfinder, PowerBi, Power Query, Macro, Excel, VBA, Python
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S., Biotechnology	| University Putra Malaysia (_2015-2018_)	 			        		
+- B.S., Science | University of Malaya (_2011-2015_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Customer Demand Analyst - Data Scientist Implementation (_Feb 2025 - Present_)**
+- Created a dashboard using Power Query to track weekly system integration child card demand across 40 
+weeks, saving 20.4 hours monthly.
+- Developed a dashboard using Power Query and conditional formatting to compare current weekly commit 
+customer orders vs. previous week orders, saving 68.6 hours monthly.
+- Created a personal dashboard using Power Query and conditional formatting to compare forecast orders, 
+sales orders, and previous week demand planning, saving 9 hours monthly.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Manufacturing Integrator @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
