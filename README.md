@@ -1,6 +1,7 @@
-# Data Scientist
 
-#### Technical Skills: SQL, SQLPathfinder, PowerBi, Power Query, Macro, Excel, VBA, Python
+
+#### Professional Skills: Operational Management & Efficiency, Leadership & Team Management, Process Optimization & Improvement, Safety & Quality Compliance
+#### Data Analyst Skills: SQL, SQLPathfinder, PowerBi, Power Query, Macro, Excel, VBA, Python
 
 ## Education						       		
 - M.S., Biotechnology	| University Putra Malaysia (_2015-2018_)	 			        		
@@ -37,10 +38,10 @@
 ## Achievements
 ### Q1’25 SIMS Factory Recognition Award
 Intel KM2 | Q1’2025
-1. ODM Demand Transition with $1M Spending Optimization.
+#### 1. ODM Demand Transition with $1M Spending Optimization.
 - Developed a detailed blackout transition plan by thoroughly analyzing the tool-sharing matrix, ensuring smooth operations for SIMS and ODM. Built strong partnerships with ODMs to accurately capture demand and led extensive negotiations with customers to adjust orders during the blackout period, minimizing disruptions to customer deliveries.
    
-2. Debug Return Boards Process.
+#### 2. Debug Return Boards Process.
 - Efficiently handling ad hoc requests to clear ODM return failing boards, processing a total of 48 boards within a month with 100% debug accuracy, ensuring no impact on ODM Factory Certification. Established a robust process that prevented any negative impact on P&L and saved over $13.6K by conducting in-house rework. Key efforts included accurately identifying the root cause of failures in ODM, setting up a new process flow for board processing, and accelerating TPT by enabling inline debugging and rework.
    
 ### Q4’24 Intel L3 Data Fluency Certified 
@@ -49,12 +50,12 @@ Intel KM2 | Q4’2024
 
 ### Q4’24 SIMS Factory Recognition Award
 Intel KM2 | Q4’2024
-1. ODM Factory Cert Board/Card Transfer Methodology.
+#### 1. ODM Factory Cert Board/Card Transfer Methodology.
 - Successfully defined and executed the process for transferring 1,356 boards/cards to achieve ODM Factory Certification, showcasing strong teamwork and the One Intel spirit. Obtained a Sub-Con License within two weeks, ensuring compliance with WIP inventory management and customs requirements. Implemented detailed and lean planning by using micro Gantt charts for precise equipment readiness and facilitating daily WIP progress reviews. Innovated shipping processes and disciplined execution, reducing TPT by three days and saving 2,052 man-hours, along with $17K through optimized packing solutions.
 
-3. NPI Marathon Success
+#### 3. NPI Marathon Success
    
-### Q1'24 ATM OPERATIONS EXCELLENCE AWARD WINNERS
+### Q1'24 ATM Operations Excellent Award Winners
 Intel | Q1’2024
-1. 90% Data Analytics Time Reduction to Enable Faster Decision for SIMS Cycle Time, Material Inventory and Delivery.
-- Achieved a 90% reduction in data analytics time, enabling faster decision-making for SIMS cycle time, material inventory, and RDD. Enhanced data management and developed key reporting tools to increase efficiency, integrating multiple data sources into a user-friendly dashboard. This initiative saved 268,000 man-hours annually, improved WIP by 98%, cycle time by 90%, and resulted in $59 million in cost savings.
+#### 1. 90% Data Analytics Time Reduction to Enable Faster Decision for SIMS Cycle Time, Material Inventory and Delivery.
+- Chosen as an award recipient from Intel Assembly and Test Factory (among Costa Rica, Chengdu, Vietnam, Penang, and Kulim) for achieved a 90% reduction in data analytics time, enabling faster decision-making for SIMS cycle time, material inventory, and RDD. Enhanced data management and developed key reporting tools to increase efficiency, integrating multiple data sources into a user-friendly dashboard. This initiative saved 268,000 man-hours annually, improved WIP by 98%, cycle time by 90%, and resulted in $59 million in cost savings.
